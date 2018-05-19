@@ -1,4 +1,4 @@
-# volume control bar for mac , test
+# volume control bar for mac
 
 import os
 import cv2
